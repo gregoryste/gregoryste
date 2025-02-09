@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I am Gregory Stein</h1>
 
-- Pleno Web Developer; 
+- Mid-level Full Stack Developer; 
 
-- I’m currently working at [F1 Commerce](https://f1commerce.com.br/)
+- I’m currently working at [Godeep](https://godeep.global/)
 
 - I have knowledge in Javascript, CSS, SASS, Node.JS, PHP and Laravel;
